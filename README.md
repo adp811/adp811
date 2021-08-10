@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adp811
-- 👀 I’m interested in IOS Mobile App Development and ML
-- 🌱 I’m currently learning the C programming language 
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning the JavaScript programming language 
 - 💞️ I’m looking to collaborate on IOS App Projects
 - 📫 How to reach me: adp2582@gmail.com
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adp811
-- 📫 How to reach me: adp2582@gmail.com
+- 📫 How to reach me: aryanpatel02@icloud.com
 
 <!---
 adp811/adp811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

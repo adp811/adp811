@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adp811
 - 📫 How to reach me: aryanpatel02@icloud.com
-- 💼 Software Engineer @ Capital One 
+- 💼 Software Engineer @ Capital One
+- 🍎 Rutgers University - Class of 2024
 
 <!---
 adp811/adp811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
